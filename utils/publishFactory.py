@@ -12,7 +12,6 @@ class Publish:
         """
         self.raw_config_list = raw_config_list if raw_config_list else []
         self.quick_file = "quick_link.txt"
-        self.p_web = "dpaste.com"
         self.quick_config_link_list = []
 
     @staticmethod
